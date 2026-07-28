@@ -21,7 +21,7 @@ git (https://github.com/Deepak-aphyx/stock_price_prediction/tree/main)
 cd Stock-Price-Prediction
 
 2. Install dependencies  
-pip install -r Requirements.txt  
+pip install -r req.txt  
 
 3. Run the script  
 Open Stock.py and run it in your preferred Python environment or use:  
