@@ -17,7 +17,7 @@ Both traditional models (like Linear Regression and Random Forest) and time-seri
 
 ## 🚀 How to Run the Project
 1. Clone the repository  
-git clone https://github.com/krishnakantt/Stock-Price-Prediction.git  
+git (https://github.com/Deepak-aphyx/stock_price_prediction/tree/main)
 cd Stock-Price-Prediction
 
 2. Install dependencies  
